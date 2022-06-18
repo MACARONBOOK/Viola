@@ -23,3 +23,8 @@ Things you may want to cover:
 
 * ...
 # Viola
+
+This Repository is content how to create application and make codes.<br>
+
+Application name just meshiterro, you can scroll and look photos of foods or shop.<br>
+Try to put some comments, push like it.<br>
